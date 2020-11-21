@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Trying out all these things
+- **Anime**
+- _shojo and Slice of life_
+- **Parsite**
+- _natsume Book of Friends_
